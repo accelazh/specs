@@ -1,5 +1,5 @@
 ### SFV specs
-SFV specs are documents that describe requirements of SFV.
+SFV specs are documents that describe requirements of SFV (Storage Function Chaining).
 
 ### How To Contribute
 
